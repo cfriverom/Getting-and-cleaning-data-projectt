@@ -5,7 +5,9 @@ date: "31 de enero de 2016"
 output: html_document
 ---
 
-The datasead is already uncompressed in myy directoryDownload the dataset
+The datasead is already uncompressed in myy directory
+
+Download the dataset
 
 Load the activity
 
